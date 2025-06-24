@@ -1,6 +1,6 @@
 # 🌤️ Weather Forecast Visualization
 
-** API Integration and Data Visualization**
+**API Integration and Data Visualization**
 
 ## 🔍 Objective
 
